@@ -1,6 +1,13 @@
 # Python_class_Inheritance
 ### Test on python classes and inheritance
 
+
+#### MAIN APPLICATIONS DETAILS
+- The application tries to create a company management system to store employees details.
+- It shows how they can be registered, apply for a leave, company in which they are
+- It is designed for a covid19 affected organization.
+- - It has many functions which can be seen from the pictures below...
+
 - This file test implimentation of below OOP concepts and functionalities.
 ![image](https://user-images.githubusercontent.com/43881878/166105087-7cc73a14-8b0a-4bdd-97b2-b765d129f1b4.png)
 
